@@ -8,6 +8,6 @@
 
 This version of todomvc is adapted from https://github.com/Rich-Harris/rollup-todomvc
 
-# Small change here
+# Another small change here
 
-Small change here
+Another small change here
